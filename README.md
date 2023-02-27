@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @pmvamsi-coder
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning BigData Technologies
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-
-<!---
-pmvamsi-coder/pmvamsi-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm a data engineer with a passion for coding and building awesome web apps. My ultimate goal is to become a master in Artificial Intelligence 🤖, but for now, I'm enjoying the journey and learning as much as I can. When I'm not working on data pipelines or building APIs, you can find me exploring new technologies, reading up on the latest trends in tech, or sipping on a cup of coffee ☕. Let's connect and build something amazing together! 🚀
